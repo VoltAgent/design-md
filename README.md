@@ -1,6 +1,6 @@
 # DESIGN.md for AI UI Agents: A Practical Way to Share Design Taste
 
-getdesign.md is a public collection of DESIGN.md files made for AI coding agents. It takes recognizable product aesthetics and turns them into agent-readable design system analysis: patterns, tokens, component rules, layout behavior, and the reasoning behind the interface.
+[getdesign.md](https://getdesign.md/) is a public collection of DESIGN.md files made for AI coding agents. It takes recognizable product aesthetics and turns them into agent-readable design system analysis: patterns, tokens, component rules, layout behavior, and the reasoning behind the interface.
 
 That matters because AI tools do not need more vague design inspiration. They need concrete design memory. getdesign.md gives them that memory in a format they can actually use before generating UI.
 
